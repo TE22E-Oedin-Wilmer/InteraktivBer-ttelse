@@ -48,7 +48,7 @@ Console.WriteLine("Press ENTER and get out of my sight now you gremlin.");
 else
 {
 Console.WriteLine("Wow. Can't even follow simple instructions I see.");
-Console.WriteLine("I literally gave you two choices and you still messed up.");
+Console.WriteLine("I literally gave you two choices, Y or N and you still messed up.");
 Console.WriteLine("You must be special or something.");
 Console.WriteLine("Press the big button usually referred to as ENTER on your keyboard now so I don't have to stare at you for any longer.");
 }
