@@ -3,7 +3,6 @@ using System.Runtime.CompilerServices;
 
 string choice = "";
 
-
 Console.WriteLine("Hello, World!");
 Console.WriteLine("It's time for some tough choices. Choose wisely.");
 Console.WriteLine();
