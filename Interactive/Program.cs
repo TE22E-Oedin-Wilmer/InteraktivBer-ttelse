@@ -20,7 +20,7 @@ else if (choice == "n")
 {
 Console.WriteLine("Oh, no....");
 Console.WriteLine("You messed up big time.");
-Console.WriteLine("You have one chance to make up for this. Choose the wrong alternative and you are officially smooth-brained.");
+Console.WriteLine("You have one chance to make up for this. Write the wrong name and you are officially smooth-brained.");
 Console.WriteLine("Who....is....the....chosen....one?");
 Console.WriteLine("(by firstname please)");
 choice = Console.ReadLine();
