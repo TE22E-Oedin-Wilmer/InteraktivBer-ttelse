@@ -14,7 +14,7 @@ choice = choice.ToLower();
 if (choice == "y")
 {
 Console.WriteLine("Great choice! You're officially not a degenerate! Hope you enjoy your awesome drink! :D");
-                          
+                       
 Console.WriteLine("           66988           ");
 Console.WriteLine("           45544           ");
 Console.WriteLine("           93134           ");
