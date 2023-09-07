@@ -14,6 +14,27 @@ choice = choice.ToLower();
 if (choice == "y")
 {
 Console.WriteLine("Great choice! You're officially not a degenerate! Hope you enjoy your awesome drink! :D");
+                          
+Console.WriteLine("           66988           ");
+Console.WriteLine("           45544           ");
+Console.WriteLine("           93134           ");
+Console.WriteLine("           61114           ");
+Console.WriteLine("          6999999          ");
+Console.WriteLine("          8888080          ");
+Console.WriteLine("         698088888         ");
+Console.WriteLine("        69898988888        ");
+Console.WriteLine("        46446989966        ");
+Console.WriteLine("        42233556644        ");
+Console.WriteLine("        52235555254        ");
+Console.WriteLine("        49668888889        ");
+Console.WriteLine("        49968888889        ");
+Console.WriteLine("         9668988886        ");
+Console.WriteLine("         666899888         ");
+Console.WriteLine("         646888888         ");
+Console.WriteLine("         9960008009        ");
+Console.WriteLine("        98460000080        ");
+Console.WriteLine("        98690888008        ");
+Console.WriteLine("         698899888         ");
 Console.WriteLine("Press ENTER to leave with your awesome opinions!");
 }
 else if (choice == "n")
